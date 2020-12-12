@@ -9,4 +9,4 @@ To get started, follow the steps below:
 Once everything has been set up as above, head over to your terminal / command prompt. Change the directory to the directory with your `app.py` file and run `python app.py`. Wait for a few seconds and you should receive a message on the link you should go to in order to view the web app. Go to the URL, upload your music sheet and get the result! 
 
 ## Acknowledgements
-I'd like to thank Calvo-Zaragoza et al and Web-Omr project author Haohui
+I'd like to thank Calvo-Zaragoza et al and Web-Omr project author Liu Haohui
